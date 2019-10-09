@@ -4,3 +4,9 @@ C:\Users\user\source\repos\WabbajackModlistPreperator\WabbajackModlistPreperator
 C:\Users\user\source\repos\WabbajackModlistPreperator\WabbajackModlistPreperator\obj\Debug\WabbajackModlistPreperator.csprojAssemblyReference.cache
 C:\Users\user\source\repos\WabbajackModlistPreperator\WabbajackModlistPreperator\obj\Debug\WabbajackModlistPreperator.exe
 C:\Users\user\source\repos\WabbajackModlistPreperator\WabbajackModlistPreperator\obj\Debug\WabbajackModlistPreperator.pdb
+D:\Users\Blues\Documents\GitHub\wabbajacklexypreparatorFORK\WabbajackModlistPreperator\bin\Debug\WabbajackModlistPreperator.exe.config
+D:\Users\Blues\Documents\GitHub\wabbajacklexypreparatorFORK\WabbajackModlistPreperator\bin\Debug\WabbajackModlistPreperator.exe
+D:\Users\Blues\Documents\GitHub\wabbajacklexypreparatorFORK\WabbajackModlistPreperator\bin\Debug\WabbajackModlistPreperator.pdb
+D:\Users\Blues\Documents\GitHub\wabbajacklexypreparatorFORK\WabbajackModlistPreperator\obj\Debug\WabbajackModlistPreperator.csprojAssemblyReference.cache
+D:\Users\Blues\Documents\GitHub\wabbajacklexypreparatorFORK\WabbajackModlistPreperator\obj\Debug\WabbajackModlistPreperator.exe
+D:\Users\Blues\Documents\GitHub\wabbajacklexypreparatorFORK\WabbajackModlistPreperator\obj\Debug\WabbajackModlistPreperator.pdb
